@@ -6,6 +6,11 @@
 
 * [Shell](/shell/README.md)
 	* [基础语法](/shell/grammar.md)
+* [Linux](/Linux/README.md)
+	* [文件管理](/Linux/FileManager/README.md)
+		* [find:查找](/Linux/FileManager/find.md)
+		* [rm:删除](/Linux/FileManager/rm.md)
+		* [cp:拷贝](/Linux/FileManager/cp.md)
 * [软件](/software/README.md)
 	* [Sublimeb Text](/software/SublimeText.md)
 	* [GitBook](/software/GitBook.md)
