@@ -5,7 +5,7 @@
 --- 
 
 * [Shell](/shell/README.md)
-	* [基础语法](/shell/grammar.md)
+	* [数组](/shell/array.md)
 * [Linux](/Linux/README.md)
 	* [文件管理](/Linux/FileManager/README.md)
 		* [find:查找](/Linux/FileManager/find.md)
