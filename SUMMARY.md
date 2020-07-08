@@ -5,6 +5,7 @@
 --- 
 
 * [Shell](/shell/README.md)
+	* [字符串](/shell/string.md)
 	* [数组](/shell/array.md)
 * [Linux](/Linux/README.md)
 	* [文件管理](/Linux/FileManager/README.md)
