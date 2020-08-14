@@ -7,6 +7,7 @@
 * [Shell](/shell/README.md)
 	* [字符串](/shell/string.md)
 	* [数组](/shell/array.md)
+* [git](/git/README.md)
 * [Linux](/Linux/README.md)
 	* [文件管理](/Linux/FileManager/README.md)
 		* [find:查找](/Linux/FileManager/find.md)
