@@ -20,3 +20,8 @@ git push origin <branch_name>
 ```sh
 git branch -d <branch_name>
 ```
+
+# 资料
+
+* [廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600)
+* [Git官网](https://git-scm.com/)
