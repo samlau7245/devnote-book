@@ -24,3 +24,4 @@
 	* [GitBook](/software/GitBook.md)
 	* [MarkDown](/software/MarkDown.md)
 	* [VPN](/software/SafeSocks.md)
+	* [OmniGraffle](/software/OmniGraffle.md)
