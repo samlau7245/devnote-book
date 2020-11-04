@@ -43,4 +43,4 @@
 
 # 资料
 
-* [GitBook 插件](http://gitbook.zhangjikai.com/plugins.html)
+* [GitBook](https://chrisniael.gitbooks.io/gitbook-documentation/content/index.html)
