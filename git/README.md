@@ -1,3 +1,9 @@
+# 日志
+
+```sh
+git log --oneline
+```
+
 # 分支
 
 ## 创建新的分支
@@ -59,3 +65,4 @@ git push origin :refs/tags/test
 
 * [廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600)
 * [Git官网](https://git-scm.com/)
+* [https://www.yiibai.com/git/git_log.html](https://www.yiibai.com/git/git_log.html)

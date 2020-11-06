@@ -7,7 +7,7 @@
 * [Shell](/shell/README.md)
 	* [字符串](/shell/string.md)
 	* [数组](/shell/array.md)
-* [git](/git/README.md)
+* [Git](/git/README.md)
 * [CocoaPods](/CocoaPods.md)
 * [UI 设计规范](/UI.md)
 * [Linux](/Linux/README.md)
