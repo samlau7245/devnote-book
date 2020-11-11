@@ -61,6 +61,18 @@ git tag -d test
 git push origin :refs/tags/test
 ```
 
+# 问题
+
+```
+# 在使用idea进行提交代码时，执行提交时一直出现modified:   .idea/workspace.xml 非常让人烦恼
+modified: .idea/workspace.xml
+```
+
+原因在于Git的忽略，Git在同步代码时，设置本地忽略文件的前提是，必须保证Git的远程端仓库中没有这个要忽略的文件。当远端包含有该文件时，本地设置的ignore将不再发挥作用。
+
+* 在本地的.gitignore文件里面添加上.dea/workspace.xml文件。
+* 如果已经将本地的文件提交到了远端，那么需要将远端提交的文件给删掉: `git rm -r --cached .idea `
+
 # 资料
 
 * [廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600)
