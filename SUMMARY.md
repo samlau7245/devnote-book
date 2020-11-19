@@ -27,3 +27,4 @@
 	* [VPN](/software/SafeSocks.md)
 	* [OmniGraffle](/software/OmniGraffle.md)
 	* [vim 使用记录](/software/VIM.md)
+* [Ruby](/Ruby/README.md)
