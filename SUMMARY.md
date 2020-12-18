@@ -9,6 +9,7 @@
 	* [数组](/shell/array.md)
 	* [curl](/shell/curl.md)
 * [Git](/git/README.md)
+	* [Git Message 规范](/git/commit_message.md)
 * [CocoaPods](/CocoaPods.md)
 * [UI 设计规范](/UI.md)
 * [Linux](/Linux/README.md)
