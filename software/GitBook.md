@@ -1,3 +1,19 @@
+# 本地服务部署
+
+```sh
+# 安装GitBook，终端输入
+brew install gitbook-cli -g
+
+# 创建书本文件夹，初始化文件目录
+gitbook init
+
+# 预览效果
+gitbook serve
+
+# 编译
+gitbook build
+```
+
 # 插件
 
 ## Disqus 评论
