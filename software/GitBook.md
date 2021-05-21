@@ -1,3 +1,11 @@
+# 命令
+
+## 指定 serve 端口
+
+```bash
+gitbook serve --port 2333
+```
+
 # 本地服务部署
 
 ```sh
@@ -14,6 +22,26 @@ gitbook serve
 gitbook build
 ```
 # 插件
+
+| 插件 | 功能 | 
+| --- | --- |
+| simple-page-toc | |
+| anchor-navigation-ex | |
+| search-plus | |
+| advanced-emoji | |
+| splitter | |
+| expandable-chapters-small | |
+| local-video | |
+| anchors | |
+| copy-code-button | |
+| alerts | |
+| include-csv | |
+| include-codeblock | |
+| ace | |
+| favicon | |
+| emphasize | |
+| disqus | |
+
 
 ## Disqus 评论
 
